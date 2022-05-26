@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-26T01:15:52 CET" name="Suite" finished-at="2022-02-26T01:16:23 CET" duration-ms="31323">
+    <groups>
+    </groups>
+    <test started-at="2022-02-26T01:15:52 CET" name="Test" finished-at="2022-02-26T01:16:23 CET" duration-ms="31323">
+      <class name="com.Listeners.ListeningTest">
+        <test-method signature="testcheck()[pri:0, instance:com.Listeners.ListeningTest@302552ec]" started-at="2022-02-26T01:15:52 CET" name="testcheck" finished-at="2022-02-26T01:15:52 CET" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcheck -->
+      </class> <!-- com.Listeners.ListeningTest -->
+      <class name="com.sparknetworks.Test.SearchTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.sparknetworks.Test.SearchTest@6ad82709]" started-at="2022-02-26T01:15:52 CET" name="Initalization" finished-at="2022-02-26T01:16:01 CET" duration-ms="9003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="searchForSparkNetworks()[pri:1, instance:com.sparknetworks.Test.SearchTest@6ad82709]" started-at="2022-02-26T01:16:01 CET" name="searchForSparkNetworks" finished-at="2022-02-26T01:16:10 CET" duration-ms="9093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForSparkNetworks -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.sparknetworks.Test.SearchTest@6ad82709]" started-at="2022-02-26T01:16:10 CET" name="closure" finished-at="2022-02-26T01:16:10 CET" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.sparknetworks.Test.SearchTest@6ad82709]" started-at="2022-02-26T01:16:10 CET" name="Initalization" finished-at="2022-02-26T01:16:18 CET" duration-ms="7605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="searchForFunnyCatMemes()[pri:2, instance:com.sparknetworks.Test.SearchTest@6ad82709]" started-at="2022-02-26T01:16:18 CET" name="searchForFunnyCatMemes" finished-at="2022-02-26T01:16:23 CET" duration-ms="5023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForFunnyCatMemes -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.sparknetworks.Test.SearchTest@6ad82709]" started-at="2022-02-26T01:16:23 CET" name="closure" finished-at="2022-02-26T01:16:23 CET" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- com.sparknetworks.Test.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
